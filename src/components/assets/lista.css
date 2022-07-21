@@ -1,0 +1,84 @@
+.lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1vh;
+    background-color: #555;
+    text-align: center;
+    /**/
+    flex-direction: column;
+    /**/
+    max-width: 70vw;
+    position: relative;
+    border-radius: 10px;
+    margin: 3vh;
+  }
+  .lista h3 {
+    text-align: left;
+  }
+  
+  .ignorar {
+    border-style: groove; /*- Defines a 3D grooved border. The effect depends on the border-color value*/
+    border-style: dashed; /*- Defines a dashed border*/
+    border-style: solid; /*- Defines a solid border*/
+    border-style: inset; /*- Defines a 3D inset border. The effect depends on the border-color value*/
+    border-style: outset; /*- Defines a 3D outset border. The effect depends on the border-color value*/
+  
+    border-style: double; /*- Defines a double border*/
+    /**/
+    border-style: dotted; /*- Defines a dotted border*/
+    border-style: ridge; /*- Defines a 3D ridged border. The effect depends on the border-color value*/
+    /**/
+    border-style: none; /*- Defines no border*/
+    border-style: hidden; /*- Defines a hidden border*/
+    background-color: whitesmoke;
+    background: linear-gradient(90deg,white,grey);
+    backdrop-filter: blur(100vh);
+  }
+  .lista section article {
+    width: 100%;
+  }
+  .lista section article p {
+    width: 80%;
+    background-color: #80808080;
+    position: relative;
+    left: 10%;
+    padding: 5px;
+    border-radius: 25px;
+    border-top-left-radius: 0px;
+    border-color: #222;
+    border-style: ridge dotted;
+    margin: 1vh 0.5vh;
+  }
+  .lista .hw:hover {
+    background-color: whitesmoke;
+    color: #000;
+    font-weight: 600;
+    transition: all .2s;
+  }
+  .lista section article button {
+    border-style: double; /*- Defines a double border*/
+    border-color: #222;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #433;
+    margin: 5px;
+    background-color: #80808080;
+    padding: 3px;
+  }
+  .lista a {
+    padding: 3px 1%;
+    margin: 1px;
+    border-style: solid;
+    border-color: #111;
+    box-shadow: 0 0 6px #222;
+    background-color: #222;
+  }
+  .lista a:link {
+    background-color: #555;
+  text-decoration: none;
+  }
+  .lista a:visited {
+    color: #777;
+  }
+  

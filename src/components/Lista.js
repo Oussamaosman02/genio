@@ -12,7 +12,7 @@ export default function Lista() {
   const navigate = useNavigate();
   return (
     <>
-      {dats.map((d) => {
+      {dats.sort(function() { return Math.random() - 0.5 }).map((d) => {
         return (
           <div
             key={nanoid()}

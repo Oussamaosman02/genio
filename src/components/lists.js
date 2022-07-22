@@ -10,17 +10,18 @@ export default function Lists() {
   let uid = nanoid();
   return (
     <div className="listadiv">
-      <button
-        onClick={() => {
-          navigate("/", { replace: true });
-        }}
-        className="hw"
-      >
-        Home
-      </button>
-      <h1>{params.id}</h1>
-
-      {dats.map((d) => {
+      <div className="aaa">
+        <button
+          onClick={() => {
+            navigate("/", { replace: true });
+          }}
+          className="hw"
+        >
+          Home
+        </button>
+        <h1>{params.id}</h1>
+      </div>
+      {dats.sort(function() { return Math.random() - 0.5 }).map((d) => {
         return (
           <>
             <div
@@ -30,7 +31,6 @@ export default function Lists() {
               <a className="hw" href={d.url} target="_blank" rel="noreferrer">
                 {d.title}
               </a>
-
               <section>
                 <article>
                   <p className="hw">{d.description}</p>

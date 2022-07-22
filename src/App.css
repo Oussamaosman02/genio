@@ -1,8 +1,11 @@
 .App {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
   align-items: center;
   text-align: center;
+  width: 70vw;
+  position: relative;
+  left: 14vw;
 }

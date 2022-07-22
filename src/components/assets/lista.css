@@ -84,18 +84,28 @@
   .listadiv {
     display: flex;
     text-align: center;
-    flex-direction: column;
+    flex-direction: row;
+    flex-wrap: wrap;
     justify-content: space-around;
-    align-items: center;
+    align-items: center; 
+    width: 70vw;
+    position: relative;
+    left: 14vw;
   }
   .listadiv button {
     border-style: double; /*- Defines a double border*/
     border-color: #222;
     border-radius: 5px;
     box-shadow: 0 0 10px #433;
+    align-self: center;
+    justify-self: center;
     margin: 5px;
     background-color: #80808080;
     padding: 3px;
+  }
+  .aaa{
+    width: 100vw;
+    margin: 3vh;
   }
   .undefined{
     display: none;

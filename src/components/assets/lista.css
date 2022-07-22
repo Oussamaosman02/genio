@@ -51,7 +51,7 @@
     border-style: ridge dotted;
     margin: 1vh 0.5vh;
   }
-  .lista .hw:hover {
+  .hw:hover {
     background-color: whitesmoke;
     color: #000;
     font-weight: 600;
@@ -81,4 +81,22 @@
   .lista a:visited {
     color: #777;
   }
-  
+  .listadiv {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }
+  .listadiv button {
+    border-style: double; /*- Defines a double border*/
+    border-color: #222;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #433;
+    margin: 5px;
+    background-color: #80808080;
+    padding: 3px;
+  }
+  .undefined{
+    display: none;
+  }

@@ -1,4 +1,8 @@
-[
+, {
+    "title": "",
+    "url": "",
+    "description": "",
+    "tags": [
   "dev",
   "fs",
   "css",
@@ -15,5 +19,11 @@
   "code",
   "learn",
   "host",
-  "deploy"
-]
+  "deploy",
+  "domain",
+  "ui",
+  "ux",
+  "design"
+],
+    "used": false
+  }

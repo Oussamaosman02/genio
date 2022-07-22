@@ -5,13 +5,6 @@ function App() {
   return (
     <div className="App">
      <Lista/>
-     <Lista/>
-     <Lista/>
-     <Lista/>
-     <Lista/>
-     <Lista/>
-     <Lista/>
-     <Lista/>
     </div>
   );
 }

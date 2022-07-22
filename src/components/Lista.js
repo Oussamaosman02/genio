@@ -1,33 +1,55 @@
 import React from "react";
-import "./assets/lista.css"
+import "./assets/lista.css";
+import datos from "../data.json";
+import { nanoid } from "nanoid";
+import { useNavigate } from "react-router-dom";
 
+let dats = datos;
+export function getData(clas) {
+  return dats.find((invoice) => invoice === clas);
+}
 export default function Lista() {
+  const navigate = useNavigate();
   return (
-    <div className="lista">
-      <h3>Midu Dev</h3>
-      <a
-        className="hw"
-        href="https://midu.dev/"
-        target="_blank"
-        rel="noreferrer"
-      >
-        MiduDev
-      </a>
-      <section>
-        <article>
-          <p className="hw">
-            MiduDev es la pagina de Miguel Angel Duran, un gran programador que
-            enseña en youtube y en sus directos de twitch.
-          </p>
-        </article>
-        <article>
-          <h6>Tags:</h6>
-          <button className="hw">#react</button>
-          <button className="hw">#programacion</button>
-          <button className="hw">#aprender</button>
-          <button className="hw">#twitch</button>
-        </article>
-      </section>
-    </div>
+    <>
+      {dats.map((d) => {
+        return (
+          <div
+            key={nanoid()}
+            className={`lista ${d.tags
+              .map((item) => {
+                return ` ${item}`;
+              })
+              .join("")}`}
+          >
+            <a className="hw" href={d.url} target="_blank" rel="noreferrer">
+              {d.title}
+            </a>
+
+            <section>
+              <article>
+                <p className="hw">{d.description}</p>
+              </article>
+              <article>
+                <h6>Tags:</h6>
+                {d.tags.map((t) => {
+                  return (
+                    <button
+                      key={nanoid()}
+                      onClick={() => {
+                        navigate(`/${t}`, { replace: true });
+                      }}
+                      className="hw"
+                    >
+                      #{t}
+                    </button>
+                  );
+                })}
+              </article>
+            </section>
+          </div>
+        );
+      })}
+    </>
   );
 }

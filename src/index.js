@@ -10,7 +10,7 @@ root.render(
   <BrowserRouter>
     <Routes>
       <Route path="/" element={<App />} />
-      <Route path="/:id" element={<Lists/>} />
+      <Route path="/:id" element={<Lists />} />
     </Routes>
   </BrowserRouter>
 );

@@ -19,7 +19,7 @@ export default function Lists() {
         >
           Home
         </button>
-        <h1>{params.id}</h1>
+        <h1>{`${params.id[0].toUpperCase()}${params.id.slice(1)}`}</h1>
       </div>
       {dats
         .sort(function () {

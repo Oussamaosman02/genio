@@ -3,15 +3,14 @@ import "./assets/lista.css";
 import datos from "../data.json";
 import { nanoid } from "nanoid";
 import { useNavigate } from "react-router-dom";
+import Historias from "./Historias";
 
-let dats = datos;
-export function getData(clas) {
-  return dats.find((invoice) => invoice === clas);
-}
 export default function Lista() {
+  let dats = datos;
   const navigate = useNavigate();
   return (
     <>
+      <Historias/>
       {dats
         .sort(function () {
           return Math.random() - 0.5;
@@ -36,7 +35,7 @@ export default function Lista() {
                 </article>
                 <article>
                   <div className="sep"></div>
-                  <div className="messi" >
+                  <div className="messi">
                     {d.tags.map((t) => {
                       return (
                         <button

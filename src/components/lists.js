@@ -21,41 +21,48 @@ export default function Lists() {
         </button>
         <h1>{params.id}</h1>
       </div>
-      {dats.sort(function() { return Math.random() - 0.5 }).map((d) => {
-        return (
-          <>
-            <div
-              key={`${uid}89`}
-              className={`lista ${d.tags.find((item) => item === params.id)}`}
-            >
-              <a className="hw" href={d.url} target="_blank" rel="noreferrer">
-                {d.title}
-              </a>
-              <section>
-                <article>
-                  <p className="hw">{d.description}</p>
-                </article>
-                <article>
-                  <h6>Tags:</h6>
-                  {d.tags.map((t) => {
-                    return (
-                      <button
-                        key={nanoid()}
-                        onClick={() => {
-                          navigate(`/${t}`, { replace: true });
-                        }}
-                        className="hw"
-                      >
-                        #{t}
-                      </button>
-                    );
-                  })}
-                </article>
-              </section>
-            </div>
-          </>
-        );
-      })}
+      {dats
+        .sort(function () {
+          return Math.random() - 0.5;
+        })
+        .map((d) => {
+          return (
+            <>
+              <div
+                key={`${uid}89`}
+                className={`lista ${d.tags.find((item) => item === params.id)}`}
+              >
+                <a className="hw" href={d.url} target="_blank" rel="noreferrer">
+                  <img src={d.imagen} alt="es el logo de la pagina" />
+                </a>
+                <h2>{d.title}</h2>
+                <section>
+                  <article>
+                    <p>{d.description}</p>
+                  </article>
+                  <article>
+                    <div className="sep"></div>
+                    <div className="messi">
+                      {d.tags.map((t) => {
+                        return (
+                          <button
+                            key={nanoid()}
+                            onClick={() => {
+                              navigate(`/${t}`, { replace: true });
+                            }}
+                            className="hw"
+                          >
+                            #{t}
+                          </button>
+                        );
+                      })}
+                    </div>
+                  </article>
+                </section>
+              </div>
+            </>
+          );
+        })}
     </div>
   );
 }

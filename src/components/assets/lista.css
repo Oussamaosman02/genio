@@ -46,8 +46,8 @@
     width: 80%;
     position: relative;
     left: 10%;
-    padding: 5px;
-    margin: 1vh 1vh;
+    padding: 1px;
+    top: -3vh;
   }
   
   .hw:hover {
@@ -74,38 +74,28 @@
     box-shadow: 0 0 40px 5px rgba(0, 0, 0, 0.25);
     width: 100px;
     height: 50px;
-    margin: 5px;
-    padding: 3px;
+    margin: 0 1vw;
   }
   
   .sep {
     width: 100%;
-    margin: 4vh;
+    margin: 3vh;
   }
 
   .lista a {
-    padding: 1% 1%;
-    margin: 1px;
-    border-style: solid;
-    border-color: #111;
-    box-shadow: 0 0 6px #222;
-    background-color: #222;
+    border: .5px solid #111;
+    box-shadow: 0 0 10px 1px #222;
+    background-color: #000;
     text-align: center;
     border-radius: 25vw;
   }
   
   .lista a img {
     border-radius: 25vw;
+    width: 99%;
+    height:99%;
   }
-  .lista a:link {
-    background-color: #D9D9D9;
-  text-decoration: none;
-  }
-  
-  .lista a:visited {
-    color: #777;
-  }
-  
+
   .listadiv {
     display: flex;
     text-align: center;

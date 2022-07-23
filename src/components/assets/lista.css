@@ -1,128 +1,112 @@
 .lista {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center;
-    background-color: #D9D9D9;
-    text-align: center;
-    /**/
-    flex-direction: column;
-    /**/
-    width: 320px;
-    height: 340px;
-    position: relative;
-    border-radius: 10px;
-    margin: 30px 60px;
-  }
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #d9d9d9;
+  text-align: center;
+  /**/
+  flex-direction: column;
+  /**/
+  width: 320px;
+  height: 320px;
+  position: relative;
+  border-radius: 10px;
+  margin: 30px 60px;
+}
 
-  .lista h2 {
-    text-align: left;
-  }
-  
-  .ignorar {
-    border-style: groove; /*- Defines a 3D grooved border. The effect depends on the border-color value*/
-    border-style: dashed; /*- Defines a dashed border*/
-    border-style: solid; /*- Defines a solid border*/
-    border-style: inset; /*- Defines a 3D inset border. The effect depends on the border-color value*/
-    border-style: outset; /*- Defines a 3D outset border. The effect depends on the border-color value*/
-  
-    border-style: double; /*- Defines a double border*/
-    /**/
-    border-style: dotted; /*- Defines a dotted border*/
-    border-style: ridge; /*- Defines a 3D ridged border. The effect depends on the border-color value*/
-    /**/
-    border-style: none; /*- Defines no border*/
-    border-style: hidden; /*- Defines a hidden border*/
-    background-color: whitesmoke;
-    background: linear-gradient(90deg,white,grey);
-    backdrop-filter: blur(100vh);
-  }
+.lista a {
+  border: 0.5px solid #111;
+  box-shadow: 0 0 10px 1px #222;
+  background-color: #000;
+  text-align: center;
+  border-radius: 25vw;
+}
 
-  .lista section article {
-    width: 100%;
-  }
-  
-  .lista section article p {
-    width: 80%;
-    position: relative;
-    left: 10%;
-    padding: 1px;
-    top: -3vh;
-  }
-  
-  .hw:hover {
-    background-color: #80808080;
-    color: #000;
-    font-weight: 600;
-    transition: all .2s;
-  }
-  
- .messi {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: absolute;
-    left: 0%;
-    top:310px;
-  }
+.lista a img {
+  border-radius: 25vw;
+  width: 99%;
+  height: 99%;
+}
 
-  .lista section article button {
-    border-radius: 5px;
-    border-style: none;
-    background-color: whitesmoke;
-    box-shadow: 0 0 40px 5px rgba(0, 0, 0, 0.25);
-    width: 100px;
-    height: 50px;
-    margin: 0 1vw;
-  }
-  
-  .sep {
-    width: 100%;
-    margin: 3vh;
-  }
+.lista h2 {
+  text-align: left;
+  height: 60px;
+  font-weight: 900;
+  font-size: 25px;
+}
 
-  .lista a {
-    border: .5px solid #111;
-    box-shadow: 0 0 10px 1px #222;
-    background-color: #000;
-    text-align: center;
-    border-radius: 25vw;
-  }
-  
-  .lista a img {
-    border-radius: 25vw;
-    width: 99%;
-    height:99%;
-  }
+.lista section article p {
+  width: 80%;
+  left: 10%;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-style: normal;
+  position: relative;
+  text-align: center;
+  top: -5vh;
+}
 
-  .listadiv {
-    display: flex;
-    text-align: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items: center; 
-    position: relative;
-  }
-  
-  .listadiv button {
-    border-style: double; /*- Defines a double border*/
-    border-color: #222;
-    border-radius: 5px;
-    box-shadow: 0 0 10px #433;
-    align-self: center;
-    justify-self: center;
-    margin: 5px;
-    background-color: #80808080;
-    padding: 3px;
-  }
- 
-  .aaa{
-    width: 100vw;
-    margin: 3vh;
-  }
-  
-  .undefined{
-    display: none;
-  }
+.messi {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  left: 0%;
+  top: 290px;
+}
+
+.lista section article button {
+  border-radius: 5px;
+  border-style: none;
+  background-color: whitesmoke;
+  box-shadow: 0 0 40px 5px rgba(0, 0, 0, 0.25);
+  width: 100px;
+  height: 50px;
+  margin: 0 1vw;
+}
+
+.sep {
+  width: 100%;
+  height: 0;
+  position: relative;
+}
+
+.hw:hover {
+  background-color: #80808080;
+  color: #000;
+  font-weight: 600;
+  transition: all 0.2s;
+}
+
+.listadiv {
+  display: flex;
+  text-align: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  position: relative;
+}
+
+.listadiv button {
+  border-style: double; /*- Defines a double border*/
+  border-color: #222;
+  border-radius: 5px;
+  box-shadow: 0 0 10px #433;
+  align-self: center;
+  justify-self: center;
+  margin: 5px;
+  background-color: #80808080;
+  padding: 3px;
+}
+
+.aaa {
+  width: 100vw;
+  margin: 3vh;
+}
+
+.undefined {
+  display: none;
+}

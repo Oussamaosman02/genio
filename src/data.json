@@ -25,7 +25,7 @@
     "url": "https://www.netlify.com/",
     "description": "Sitio de host para colgar tus web-apps",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/d89f714202f91bbf7a5f1.jpg"
+    "imagen": "https://telegra.ph/file/02f193e374ab17953afa7.jpg"
   },
   {
     "title": "Heroku",
@@ -39,7 +39,7 @@
     "url": "https://www.qovery.com/",
     "description": "Hosting para full-stack web apps y con base de datos",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/ccbde907a7dff42aadd03.jpg"
+    "imagen": "https://telegra.ph/file/aab5d36e9eed41d82b74c.jpg"
   },
   {
     "title": "Layer0",
@@ -60,7 +60,7 @@
     "url": "https://firebase.google.com/docs/hosting",
     "description": "Puedes hospedar tu sitio aqui",
     "tags": ["tool", "host", "deploy"],
-    "imagen": "https://telegra.ph/file/46885626cef6406ccf2dc.jpg"
+    "imagen": "https://telegra.ph/file/47c0d336506e29d59801a.jpg"
   },
   {
     "title": "Google Cloud",
@@ -81,7 +81,7 @@
     "url": "https://www.infinityfree.net/",
     "description": "Web Hosting con PhP y MySQl",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/7211ebc08bfc181523dc9.jpg"
+    "imagen": "https://telegra.ph/file/979b8d1660ac606978e43.jpg"
   },
   {
     "title": "AwardSpace",
@@ -102,7 +102,7 @@
     "url": "https://byet.host/",
     "description": "Hosting gratis y premium",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/2d3ed98d70063c687ba95.jpg"
+    "imagen": "https://telegra.ph/file/39aa11d49297b2aa60cef.jpg"
   },
   {
     "title": "Free Hosting",
@@ -116,7 +116,7 @@
     "url": "https://replit.com/site/hosting",
     "description": "Hosting web gratis",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/7711bf2b44bf8871c2dba.jpg"
+    "imagen": "https://telegra.ph/file/8f5c7346c5fa0d185eb5d.jpg"
   },
   {
     "title": "Render",
@@ -151,42 +151,42 @@
     "url": "https://glitch.com/",
     "description": "Web hosting gratis",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/47d6fd61a71eaea51185a.jpg"
+    "imagen": "https://telegra.ph/file/c0bc18ca71f376cb30a34.jpg"
   },
   {
     "title": "Fleek",
     "url": "https://fleek.co/",
     "description": "Host con Ethereum Name Service Domain",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/d16d353b725da6eab668e.jpg"
+    "imagen": "https://telegra.ph/file/4b49bc99947636282a82f.jpg"
   },
   {
     "title": "W3schools Spaces",
     "url": "https://www.w3schools.com/spaces/",
     "description": "Web hosting gratis",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/50c6454ca3404ff7ea14a.jpg"
+    "imagen": "https://telegra.ph/file/7b5978f50fedf313e6f08.jpg"
   },
   {
     "title": "Surge",
     "url": "https://surge.sh/",
     "description": "Web hosting para páginas estáticas",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/caa5931758413e93b0337.jpg"
+    "imagen": "https://telegra.ph/file/c79e51daa63aac767b2c0.jpg"
   },
   {
     "title": "Deta",
     "url": "https://www.deta.sh/",
     "description": "Web hosting gratis",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/f4ad7b0ac81cdf3aa8aec.jpg"
+    "imagen": "https://telegra.ph/file/68fa4850bcbbd165f055c.jpg"
   },
   {
     "title": "Railway",
     "url": "https://railway.app/",
     "description": "Deploy de webs gratis",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/427fd55ba2ea19a5383ca.jpg"
+    "imagen": "https://telegra.ph/file/7d9ff08355ba73ee7fed1.jpg"
   },
   {
     "title": "Flatlogic",
@@ -200,14 +200,14 @@
     "url": "https://begin.com/",
     "description": "Web hosting gratuito",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/c51e298c26d4c4542dca2.jpg"
+    "imagen": "https://telegra.ph/file/8d262782702536c12e40d.jpg"
   },
   {
     "title": "GitLab Pages",
     "url": "https://docs.gitlab.com/ee/user/project/pages/",
     "description": "Web hosting en gitlab",
     "tags": ["host", "deploy"],
-    "imagen": "https://telegra.ph/file/2c98f0b7c622f4629bb6e.jpg"
+    "imagen": "https://telegra.ph/file/504b0bc4ea39b4a79c7a3.jpg"
   },
   {
     "title": "Cloudflare Pages",
@@ -243,5 +243,334 @@
     "description": "Para obtener feedback de clientes",
     "tags": ["testing"],
     "imagen": "https://telegra.ph/file/6355369ba056e0e9f5025.jpg"
+  },
+  {
+    "title": "Khroma",
+    "url": "http://khroma.co/",
+    "description": "Usa IA para crear una paleta de colores que te gusta",
+    "tags": ["recursos", "ui", "ux"],
+    "imagen": "https://telegra.ph/file/f8fe3c5a6deae7724fdb3.jpg"
+  },
+  {
+    "title": "Type Scale",
+    "url": "https://type-scale.com/",
+    "description": "Te ayuda a encontrar el tamaño justo para tu fuente",
+    "tags": ["tool", "ui", "recursos"],
+    "imagen": "https://telegra.ph/file/5056f1a491682db6033c6.jpg"
+  },
+  {
+    "title": "Origam Studio",
+    "url": "https://origami.design/",
+    "description": "Para crear prototipos,animaciones y diseños",
+    "tags": ["ui", "ux"],
+    "imagen": "https://telegra.ph/file/b93e96f6de8838e759961.jpg"
+  },
+  {
+    "title": "ProtoPie",
+    "url": "https://www.protopie.io/",
+    "description": "Para llevar tu prototipo al siguiente nivel",
+    "tags": ["tool", "ui", "ux"],
+    "imagen": "https://telegra.ph/file/3998d3886e9f5c0c2c4e2.jpg"
+  },
+  {
+    "title": "Uizard",
+    "url": "https://uizard.io/es/",
+    "description": "Para diseñar prototipos",
+    "tags": ["ui", "ux"],
+    "imagen": "https://telegra.ph/file/3793ad54c972c5b3092e6.jpg"
+  },
+  {
+    "title": "ES6 Code Snippets",
+    "url": "https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets",
+    "description": "Javascript code snippets",
+    "tags": ["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Css Peek",
+    "url": "https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek",
+    "description": "Permite seleccionar e ir a la definición de las clases css",
+    "tags": ["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Auto close Tag",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag",
+    "description": "Cierra automaticamenta las tags",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Auto rename tag",
+    "url": "https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag",
+    "description": "Edita automaticamente las tags",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Live Server",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer",
+    "description": "servidor local con función de recarga en vivo para páginas",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Git Lens",
+    "url": "https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens",
+    "description": "Herramient de git para vscode",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Code Time",
+    "url": "https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode",
+    "description": "Proporciona métricas de programación directamente en Visual Studio Code",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Project Manager",
+    "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager",
+    "description": "Cambiar entre proyectos fácilmente",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Settings Sync",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync",
+    "description": "Sincronizar los ajustes",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Polacode",
+    "url": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode",
+    "description": "Polaroid para tu código",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Rest Client",
+    "url": "https://marketplace.visualstudio.com/items?itemName=humao.rest-client",
+    "description": "Cliente rest para vscode",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Live Preview",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server",
+    "description": "Ver la salida del html en una pagina dentro de vscode",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "MySQL",
+    "url": "https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2",
+    "description": "Cliente de base de datos como MySql o Postgres",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Thunder Client",
+    "url": "https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client",
+    "description": "Cliente http que trabaja dentro de vscode",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Git Graph",
+    "url": "https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph",
+    "description": "Para visualizar commits con distintos colores",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Code Spell Checker",
+    "url": "https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker",
+    "description": "Para distintos idiomas para escribir bien",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Google Fonts",
+    "url": "https://marketplace.visualstudio.com/items?itemName=lior-chamla.google-fonts",
+    "description": "Inserta tags de link o @ en css de las fuentes que hay en google fonts",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Template String Converter",
+    "url": "https://marketplace.visualstudio.com/items?itemName=meganrogge.template-string-converter",
+    "description": "Te transforma las strings en template strings cuando escribes ${",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Inline Fold",
+    "url": "https://marketplace.visualstudio.com/items?itemName=moalamri.inline-fold",
+    "description": "Abrevia atributos largos con elipses y las revela cuando pulsas",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Path Autocomplete",
+    "url": "https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete",
+    "description": "Auto completa los paths de los archivos",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Error Lens",
+    "url": "https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens",
+    "description": "Te muestra los errores del codigo en directo",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Import Cost",
+    "url": "https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost",
+    "description": "Te muestra cuanto pesa cada importación",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Version Lens",
+    "url": "https://marketplace.visualstudio.com/items?itemName=pflannery.vscode-versionlens",
+    "description": "Te dice si tienes la última version o si esta disponible una nueva",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Todo Tree",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree",
+    "description": "Te busca comentarios que has dejado como 'TODO' o 'FIXME' y te las pone en vista de árbol",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Prettier",
+    "url": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode",
+    "description": "Te formatea el código",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "Bookmarks",
+    "url": "https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks",
+    "description": "Te marca las lineas y puedes saltar a ellas",
+    "tags":["vscode","extension"],
+    "imagen": "https://telegra.ph/file/d15829a057ec7409e080f.jpg"
+  },
+  {
+    "title": "FreeCodeCamp",
+    "url": "https://www.youtube.com/c/Freecodecamp",
+    "description": "Para aprender desarrolo fullstack",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Programming With Mosh",
+    "url": "https://www.youtube.com/c/programmingwithmosh",
+    "description": "Para aprender a ser un programador full stack con Mosh",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Cs Dojo",
+    "url": "https://www.youtube.com/c/csdojo",
+    "description": "Para entre otras cosas,aprender python y data science",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Sentdex",
+    "url": "https://www.youtube.com/c/sendex",
+    "description": "Para aprender sobre todo Python",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Corey Schafer",
+    "url": "https://www.youtube.com/c/coreyms",
+    "description": "Para aprender python",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Real Python",
+    "url": "https://www.youtube.com/c/realpython",
+    "description": "Para aprender python",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Clever Programmer",
+    "url": "https://www.youtube.com/user/thenewboston/featured",
+    "description": "Para aprender web3",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Thenewboston",
+    "url": "https://www.youtube.com/c/",
+    "description": "Para aprender desarrolo full stack(fs)",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Code With Harry",
+    "url": "https://www.youtube.com/c/CodeWithHarry",
+    "description": "Para aprender sobre todo frontend",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Bro Code",
+    "url": "https://www.youtube.com/c/BroCodez",
+    "description": "Cursos completos para ser un completo full stac(fs)",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Tech With Tim",
+    "url": "https://www.youtube.com/c/TechWithTim",
+    "description": "Para aprender desarrolo backend",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Codemy",
+    "url": "https://www.youtube.com/c/Codemycom",
+    "description": "Para aprender python",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Dev Ed",
+    "url": "https://www.youtube.com/c/DevEd",
+    "description": "Para aprender programacion fs",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Traversy Media",
+    "url": "https://www.youtube.com/c/TraversyMedia",
+    "description": "Para aprender desarrollo de páginas webs",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "Web Dev Simplified",
+    "url": "https://www.youtube.com/c/WebDevSimplified",
+    "description": "Para aprender desarrollo fs",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "The Net Ninja",
+    "url": "https://www.youtube.com/c/TheNetNinja",
+    "description": "Para aprender frontend y algo de backend",
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
   }
 ]

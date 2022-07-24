@@ -1,30 +1,8 @@
-, {
+,
+  {
     "title": "",
-    "url": "",
+    "url": "https://www.youtube.com/c/",
     "description": "",
-    "tags": [
-  "dev",
-  "fs",
-  "css",
-  "react",
-  "vue",
-  "nextjs",
-  "js",
-  "yt",
-  "tw",
-  "tool",
-  "recursos",
-  "extension",
-  "svg",
-  "code",
-  "learn",
-  "host",
-  "deploy",
-  "domain",
-  "ui",
-  "ux",
-  "design",
-  "testing"
-],
-    "used": false
+    "tags":["yt","canal","learn"],
+    "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
   }

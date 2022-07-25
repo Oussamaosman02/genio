@@ -41,7 +41,7 @@ export default function Lista() {
                         <button
                           key={nanoid()}
                           onClick={() => {
-                            navigate(`/${t}`, { replace: true });
+                            navigate(`/app/${t}`, { replace: true });
                           }}
                           className="hw"
                         >

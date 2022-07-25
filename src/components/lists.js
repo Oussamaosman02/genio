@@ -13,11 +13,11 @@ export default function Lists() {
       <div className="aaa">
         <button
           onClick={() => {
-            navigate("/", { replace: true });
+            navigate("/app", { replace: true });
           }}
           className="hw"
         >
-          Home
+          Back
         </button>
         <h1>{`${params.id[0].toUpperCase()}${params.id.slice(1)}`}</h1>
       </div>
@@ -48,7 +48,7 @@ export default function Lists() {
                           <button
                             key={nanoid()}
                             onClick={() => {
-                              navigate(`/${t}`, { replace: true });
+                              navigate(`/app/${t}`, { replace: true });
                             }}
                             className="hw"
                           >

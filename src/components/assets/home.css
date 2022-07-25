@@ -1,0 +1,158 @@
+.home {
+  overflow-x: hidden;
+}
+
+.home .start,
+.home .center,
+.home .end,
+.home .ending {
+  position: relative;
+  margin-top: 10vh;
+}
+
+.home .start {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  margin-top: 3vh;
+  text-align: center;
+}
+
+.home .start img {
+  width: 33vh;
+  height: 33vh;
+  border-radius: 25vw;
+}
+
+.home .start .textos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+.home .start .textos h3 {
+  margin: 2vh;
+}
+
+.home .start .textos button {
+  background-color: whitesmoke;
+  border-style: none;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  width: 24vw;
+  height: 6vw;
+  font-size: 100%;
+  font-weight: 900;
+  margin-top: 5vh;
+}
+
+.home .start .textos button:hover {
+  color: gray;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
+}
+
+.home .center {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  position: relative;
+  text-align: center;
+}
+
+.home .center h1 {
+  width: 100vw;
+}
+
+.home .center section {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+.home .center section h2 {
+  width: 100%;
+  margin: 2vh 0;
+}
+
+.home .center section div {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+.home .center section div img {
+  max-width: 40vw;
+}
+
+.home .center section div p {
+  text-align: left;
+  margin-top: 10px;
+  width: 75%;
+  padding: 5px 5px 0 5px;
+}
+
+.home .center section div span {
+  width: 100%;
+  margin: 0px 0px 7px 0;
+}
+
+.home .center section div span button {
+  background-color: whitesmoke;
+  border-style: none;
+  border-radius: 25px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  padding: 2px;
+  width: 25%;
+  position: relative;
+  font-size: 80%;
+  font-weight: 900;
+  margin-top: 5vh;
+}
+
+.home .center section div span button:hover {
+  color: rgba(0, 0, 0, 0.5);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
+}
+
+.home .end {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  text-align: center;
+}
+
+.home .end p {
+  width: 75%;
+  text-align: left;
+  margin: 20px 0 0 0;
+  border: 3px solid black;
+  padding: 10px;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.home .end p:hover {
+  border: 3px solid rgba(0, 0, 0, 0.5);
+}

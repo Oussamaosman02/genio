@@ -19,7 +19,7 @@ export default function Historias() {
                 <button
                   key={nanoid()}
                   onClick={() => {
-                    navigate(`/${d}`, { replace: true });
+                    navigate(`/app/${d}`, { replace: true });
                   }}
                   className="hw"
                 >

@@ -20,7 +20,7 @@
   display: flex;
   flex-flow: row;
   overflow-x: scroll;
-  left: 0px;
+  left: 40px;
   width: 100vw;
 }
 

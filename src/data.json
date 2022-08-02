@@ -572,5 +572,376 @@
     "description": "Para aprender frontend y algo de backend",
     "tags":["yt","canal","learn"],
     "imagen": "https://telegra.ph/file/6dddf1209bc82f98280c9.jpg"
+  },
+  {
+    "title": "PokeApi",
+    "url": "https://pokeapi.co/",
+    "description": "Api de pokemon",
+    "tags":["api","pokemon"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Giphy",
+    "url": "https://developers.giphy.com/docs/",
+    "description": "Api de gifs",
+    "tags":["api","gifs"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "JSON Placeholder",
+    "url": "http://jsonplaceholder.typicode.com/",
+    "description": "Api fake para testear y probar",
+    "tags":["api","fake"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Swapi",
+    "url": "https://swapi.dev/",
+    "description": "Api de star wars",
+    "tags":["api","starwars"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "OpenWeather",
+    "url": "https://openweathermap.org/api",
+    "description": "Api del tiempo",
+    "tags":["api","tiempo"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Unsplash",
+    "url": "https://unsplash.com/developers",
+    "description": "Api de imágenes",
+    "tags":["api","img"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Random Data",
+    "url": "https://random-data-api.com/",
+    "description": "Api de datos random ",
+    "tags":["api","fake"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Random User",
+    "url": "https://randomuser.me/",
+    "description": "Api de generación de usuarios aleatorios",
+    "tags":["api","fake"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Spotify",
+    "url": "https://beta.developer.spotify.com/documentation/web-api/",
+    "description": "Api de Spotify",
+    "tags":["api","music"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "News Api",
+    "url": "https://newsapi.org/",
+    "description": "Api de noticias",
+    "tags":["api","news"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Pexels",
+    "url": "https://www.pexels.com/api/",
+    "description": "Api de imagenes",
+    "tags":["api","img"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Fixer Api",
+    "url": "https://fixer.io/",
+    "description": "Api de cambios de moneda",
+    "tags":["api","money"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Clarifai Api",
+    "url": "https://docs.clarifai.com/api-guide/api-overview/",
+    "description": "Api de reconocimiento mediante ia",
+    "tags":["api","ia"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "QuickChart Api",
+    "url": "https://quickchart.io/",
+    "description": "Api de generación de gráficos",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Coinbase Api",
+    "url": "https://www.coinbase.com/es/cloud",
+    "description": "Api de Coinbase ",
+    "tags":["api","money"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Shazam Api",
+    "url": "https://rapidapi.com/apidojo/api/shazam",
+    "description": "Api de Shazam",
+    "tags":["api","music"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Text-To-Speach Api",
+    "url": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
+    "description": "Api para convertir texto a voz",
+    "tags":["api","ia"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "AI Art Maker Api",
+    "url": "https://rapidapi.com/hotpot-ai-hotpot/api/ai-art-maker/details",
+    "description": "Api para hacer arte con ia ",
+    "tags":["api","ia"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Amazon Api",
+    "url": "https://aws.amazon.com/es/api-gateway/",
+    "description": "Api de Amazon",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "ILovePDF Api",
+    "url": "https://developer.ilovepdf.com/",
+    "description": "Api de ILovePDF",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Free To Game Api",
+    "url": "https://www.freetogame.com/api-doc",
+    "description": "Api de juegos gratis",
+    "tags":["api","game"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "TMDB Api",
+    "url": "https://www.themoviedb.org/documentation/api",
+    "description": "Api de datos de peliculas",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Open Library Api",
+    "url": "https://openlibrary.org/developers/api",
+    "description": "Api de libros",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "MealDB Api",
+    "url": "https://www.themealdb.com/api.php",
+    "description": "Api de recetas de comida",
+    "tags":["api","comida"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Agify Api",
+    "url": "https://agify.io/",
+    "description": "Api para predecir la edad segun el nombre",
+    "tags":["api","ia"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "CocktailDB Api",
+    "url": "https://www.thecocktaildb.com/api.php",
+    "description": "Api de cocteles",
+    "tags":["api","comida"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Jikan Api",
+    "url": "https://jikan.moe/",
+    "description": "Api de anime",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Makeup Api",
+    "url": "http://makeup-api.herokuapp.com/",
+    "description": "Api de maquillaje",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Music Brainz Api",
+    "url": "https://musicbrainz.org/doc/MusicBrainz_API",
+    "description": "Api de música",
+    "tags":["api","music"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "TVmaze Api",
+    "url": "https://www.tvmaze.com/api",
+    "description": "Api de television",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Genius Api",
+    "url": "https://docs.genius.com/",
+    "description": "Api de Genius",
+    "tags":["api","music"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "NASA Api",
+    "url": "https://api.nasa.gov/",
+    "description": "Api de la NASA",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Marvel Api",
+    "url": "https://developer.marvel.com/",
+    "description": "Api de Marvel",
+    "tags":["api"],
+    "imagen": "https://telegra.ph/file/85f2c4e4032e9355c13fb.jpg"
+  },
+  {
+    "title": "Public Apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "description": "Repositorio de github de apis públicas ",
+    "tags":["repo","api","vip"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Real World",
+    "url": "https://github.com/gothinkster/realworld",
+    "description": "Repositorio de github de ejemplos de webs",
+    "tags":["repo","ejemp"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "HTML5 Boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "description": "Repositorio de github de plantilla para html",
+    "tags":["repo"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "NodeJs Best Practices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "description": "Buenas prácticas para node",
+    "tags":["repo","js"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "JS testing BestPractices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "description": "Buenas Prácticas para testing con js ",
+    "tags":["repo","js"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Frontend Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "description": "Checklist para proyectos fontend",
+    "tags":["repo"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "You don´t know js",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "description": "Repositorio de github de libros en profundidad de js ",
+    "tags":["repo","js"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "AirBnb Js Guide",
+    "url": "https://github.com/airbnb/javascript",
+    "description": "Para aprender js",
+    "tags":["repo","js","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "Repositorio de github de listas de todo",
+    "tags":["repo","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "WTF Js",
+    "url": "https://github.com/denysdovhan/wtfjs",
+    "description": "Repositorio de github de ejemplos de js",
+    "tags":["repo","js","ejemp"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "33 js concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "description": "Repositorio de github de 33 conceptos de js",
+    "tags":["repo","js","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Design Resources",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "description": "REcursos de diseño para desarrolladores",
+    "tags":["repo","ui","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Became FS dev",
+    "url": "https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer",
+    "description": "Repositorio de github para ser full stack",
+    "tags":["repo","fs","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Awesome Node js",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "description": "Recursos y modulos de Node",
+    "tags":["repo","js","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Awesome JS",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "description": "Repositorio de github de recusrsos de js ",
+    "tags":["repo","js","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Awesome PHP",
+    "url": "https://github.com/ziadoz/awesome-php",
+    "description": "Repositorio de github de recursos de php ",
+    "tags":["repo"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Awesome For Beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "description": "Recursos para principiantes en cualquier lenguaje",
+    "tags":["repo","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "Modern Js Cheatsheet",
+    "url": "https://github.com/mbeaudru/modern-js-cheatsheet",
+    "description": "Repositorio de github de js",
+    "tags":["repo","js","learn"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "",
+    "url": "",
+    "description": "Repositorio de github de ",
+    "tags":["repo"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
+  },
+  {
+    "title": "",
+    "url": "",
+    "description": "Repositorio de github de ",
+    "tags":["repo"],
+    "imagen": "https://telegra.ph/file/fb2b6c7bb033108e86c4d.jpg"
   }
 ]

@@ -8,6 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+- [ ] [Search](https://ebookfoundation.github.io/free-programming-books-search/) for duplicates.
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 

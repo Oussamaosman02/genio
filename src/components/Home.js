@@ -1,36 +1,36 @@
-import React from "react";
-import "./assets/home.css";
-import { useNavigate } from "react-router-dom";
+import React from 'react'
+import './assets/home.css'
+import { useNavigate } from 'react-router-dom'
 
-export default function Home() {
-  let imagen = "https://telegra.ph/file/cded71315dcd1fabf6489.png";
-  let navigate = useNavigate();
+export default function Home () {
+  const imagen = 'https://telegra.ph/file/cded71315dcd1fabf6489.png'
+  const navigate = useNavigate()
   return (
-    <div className="home">
-      <div className="start">
-        <img src={imagen} alt="the logo" />
-        <div className="textos">
+    <div className='home'>
+      <div className='start'>
+        <img src={imagen} alt='the logo' />
+        <div className='textos'>
           <h1>La página para la generación digitial</h1>
           <h3>
             Descubre,disfruta y demuestra que eres un gen<strong>io</strong>
           </h3>
           <button
             onClick={() => {
-              navigate("/app", { replace: true });
+              navigate('/app', { replace: true })
             }}
           >
             Descubrir
           </button>
         </div>
       </div>
-      <div className="center">
+      <div className='center'>
         <h1>¿Como funciona?</h1>
         <section>
           <h2>Ver</h2>
           <div>
             <img
-              src="https://telegra.ph/file/6d20f371d0308b47567b0.png"
-              alt="representa lo que tiene la apliacion"
+              src='https://telegra.ph/file/6d20f371d0308b47567b0.png'
+              alt='representa lo que tiene la apliacion'
             />
             <p>
               Cuando entras a la web-app verás muchas cartas en estilo de
@@ -46,7 +46,7 @@ export default function Home() {
             <span>
               <button
                 onClick={() => {
-                  navigate("/app", { replace: true });
+                  navigate('/app', { replace: true })
                 }}
               >
                 Ir
@@ -58,8 +58,8 @@ export default function Home() {
           <h2>Aportar</h2>
           <div>
             <img
-              src="https://telegra.ph/file/6a66c96f763d2fde603b2.png"
-              alt="representa lo que tiene la apliacion"
+              src='https://telegra.ph/file/6a66c96f763d2fde603b2.png'
+              alt='representa lo que tiene la apliacion'
             />
             <p>
               En VoteÚ podrás poner propuestas de webs con una descripción y
@@ -69,14 +69,14 @@ export default function Home() {
               para votar webs o apps útiles para la programación
             </p>
             <span>
-              <a href="https://voteu.tk/" target="_BLANK" rel="noreferrer">
+              <a href='https://voteu.tk/' target='_BLANK' rel='noreferrer'>
                 <button>Aportar</button>
               </a>
             </span>
           </div>
         </section>
       </div>
-      <div className="end">
+      <div className='end'>
         <h1>¿Porqué?</h1>
         <p>
           Está idea surge por la cantidad de cuentas que publican contenido útil
@@ -99,7 +99,7 @@ export default function Home() {
           <strong>Si lo haces menciona :)</strong>
         </p>
       </div>
-      <div className="ending"></div>
+      <div className='ending' />
     </div>
-  );
+  )
 }

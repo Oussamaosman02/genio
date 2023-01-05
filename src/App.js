@@ -1,12 +1,12 @@
-import "./App.css";
-import Lista from "./components/Lista";
+import './App.css'
+import Lista from './components/Lista'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-     <Lista/>
+    <div className='App'>
+      <Lista />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

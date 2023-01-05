@@ -2,7 +2,7 @@
 
 ## About this project
 
-This is a open source project trying to have in one page all needed pages for developers of any kind, but more focus on web developers
+This is a open source project trying to have in one page all needed pages for developers of any kind, but more focus on web developers.
 
 ## Contribute
 

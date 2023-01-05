@@ -8,8 +8,8 @@
   /**/
   flex-direction: column;
   /**/
-  width: 320px;
-  height: 320px;
+  width: 240px;
+  height: 240px;
   position: relative;
   border-radius: 10px;
   margin: 30px 60px;
@@ -20,7 +20,7 @@
   display: flex;
   flex-flow: row;
   overflow-x: scroll;
-  left: 40px;
+  left: 0px;
   width: 100vw;
 }
 
@@ -53,22 +53,17 @@
 }
 
 .lista a {
-  border: 0.5px solid #111;
-  box-shadow: 0 0 10px 1px #222;
-  background-color: #000;
+  border: 2px dashed red;
+  padding: 5px;
+  margin: 0;
   text-align: center;
-  border-radius: 25vw;
-}
-
-.lista a img {
-  border-radius: 25vw;
-  width: 99%;
-  height: 99%;
+  text-decoration: none;
+  max-width: 90%;
 }
 
 .lista h2 {
-  text-align: left;
-  height: 60px;
+  text-align: center;
+  height: fit-content;
   font-weight: 900;
   font-size: 25px;
 }
@@ -87,11 +82,11 @@
 .messi {
   width: 100%;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-evenly;
   align-items: center;
   position: absolute;
   left: 0%;
-  top: 290px;
+  top: 210px;
 }
 
 .lista section article button {
@@ -152,7 +147,6 @@
 .undefined {
   display: none;
 }
-
 
 .vip {
   background-color: aquamarine;

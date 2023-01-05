@@ -6,8 +6,6 @@ export default function Lists () {
   const dats = datos
   const navigate = useNavigate()
   const params = useParams()
-  const crypto = require('crypto')
-  const uid = crypto.randomUUID()
   return (
     <div className='listadiv'>
       <div className='aaa'>
@@ -28,7 +26,7 @@ export default function Lists () {
         .map((d) => {
           return (
             <div
-              key={`${uid}89`}
+              key={d.url}
               className={`lista ${d.tags.find((item) => item === params.id)}`}
             >
               <a className='hw' href={d.url} target='_blank' rel='noreferrer'>
@@ -44,7 +42,7 @@ export default function Lists () {
                     {d.tags.map((t) => {
                       return (
                         <button
-                          key={crypto.randomUUID()}
+                          key={`${d.url}${t}`}
                           onClick={() => {
                             navigate(`/app/${t}`, { replace: true })
                           }}

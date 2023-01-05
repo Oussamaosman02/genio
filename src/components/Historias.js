@@ -5,7 +5,6 @@ import { useNavigate } from 'react-router-dom'
 
 export default function Historias () {
   const tag = tags
-  const crypto = require('crypto')
   const navigate = useNavigate()
   return (
     <>
@@ -17,7 +16,7 @@ export default function Historias () {
           .map((d) => {
             return (
               <button
-                key={crypto.randomUUID()}
+                key={d}
                 onClick={() => {
                   navigate(`/app/${d}`, { replace: true })
                 }}

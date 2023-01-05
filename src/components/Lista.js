@@ -6,7 +6,6 @@ import Historias from './Historias'
 
 export default function Lista () {
   const dats = datos
-  const crypto = require('crypto')
   const navigate = useNavigate()
   return (
     <>
@@ -18,7 +17,7 @@ export default function Lista () {
         .map((d) => {
           return (
             <div
-              key={crypto.randomUUID()}
+              key={d.url}
               className={`lista ${d.tags
                 .map((item) => {
                   return ` ${item}`
@@ -38,7 +37,7 @@ export default function Lista () {
                     {d.tags.map((t) => {
                       return (
                         <button
-                          key={crypto.randomUUID()}
+                          key={`${d.url}${t}`}
                           onClick={() => {
                             navigate(`/app/${t}`, { replace: true })
                           }}

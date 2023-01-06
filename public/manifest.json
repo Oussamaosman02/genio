@@ -3,12 +3,12 @@
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "https://telegra.ph/file/cded71315dcd1fabf6489.png",
+      "src": "./logo.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://telegra.ph/file/cded71315dcd1fabf6489.png",
+      "src": "./logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }

@@ -39,7 +39,10 @@
 .home .start .textos h3 {
   margin: 2vh;
 }
-
+.home .start .textos h3 strong {
+  color: whitesmoke;
+  text-shadow: 1px 1px black;
+}
 .home .start .textos button {
   background-color: whitesmoke;
   border-style: none;
@@ -86,7 +89,7 @@
   margin: 2vh 0;
 }
 
-.home .center section div {
+.home .center section article {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
@@ -96,36 +99,33 @@
   text-align: center;
 }
 
-.home .center section div img {
-  max-width: 40vw;
-}
 
-.home .center section div p {
+.home .center section article p {
   text-align: left;
   margin-top: 10px;
   width: 75%;
   padding: 5px 5px 0 5px;
 }
 
-.home .center section div span {
-  width: 100%;
+.home .center section article span {
+  width: 30vw;
   margin: 0px 0px 7px 0;
 }
 
-.home .center section div span button {
+.home .center section article span button {
   background-color: whitesmoke;
   border-style: none;
   border-radius: 25px;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-  padding: 2px;
-  width: 25%;
+  padding: 4px;
+  width: 20%;
+  min-width: fit-content;
   position: relative;
-  font-size: 80%;
+  font-size: 100%;
   font-weight: 900;
-  margin-top: 5vh;
 }
 
-.home .center section div span button:hover {
+.home .center section article span button:hover {
   color: rgba(0, 0, 0, 0.5);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 }

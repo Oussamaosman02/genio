@@ -3,14 +3,14 @@ import './assets/home.css'
 import { useNavigate } from 'react-router-dom'
 
 export default function Home () {
-  const imagen = 'https://telegra.ph/file/cded71315dcd1fabf6489.png'
+  const imagen = '/logo.png'
   const navigate = useNavigate()
   return (
     <div className='home'>
       <div className='start'>
         <img src={imagen} alt='the logo' />
         <div className='textos'>
-          <h1>La página para la generación digitial</h1>
+          <h1>La página para la generación digital</h1>
           <h3>
             Descubre,disfruta y demuestra que eres un gen<strong>io</strong>
           </h3>
@@ -24,68 +24,85 @@ export default function Home () {
         </div>
       </div>
       <div className='center'>
-        <h1>¿Como funciona?</h1>
         <section>
-          <h2>Ver</h2>
-          <div>
-            <img
-              src='https://telegra.ph/file/6d20f371d0308b47567b0.png'
-              alt='representa lo que tiene la apliacion'
-            />
+          <article>
+            <h2>Recursos variados</h2>
             <p>
-              Cuando entras a la web-app verás muchas cartas en estilo de
-              publicaciones y hashtags en estilo de historias. Si pulsas en las
-              historias podrás ir a ver publicaciones filtradas por ese hashtag.
-              En las publicaciones verás una foto representativa(suele ser un
-              logo) y si pulsas en ella te llevará al enlace.Debajo de la foto
-              está el título y una breve descrpción aunque lo mejor es que
-              entres y descubras tu mismo de que va!. Como último están los
-              hashtags donde también si pulsas podrás ver más publicaciones con
-              ese hashtag.
+              Genio.me es la mejor opción para encontrar recursos útiles para
+              desarrolladores de todo tipo. Ya sea que estés buscando páginas
+              web útiles, canales de YouTube, repositorios de GitHub o APIs,
+              Genio.me tiene todo lo que necesitas para mejorar tus habilidades y
+              estar al día en el mundo del desarrollo de software.
             </p>
+          </article>
+          <article>
+            <h2>Para vosotros, Frontends</h2>
+            <p>
+              Si eres un desarrollador de frontend, entonces Genio.me
+              es el lugar perfecto para ti. Tenemos una amplia selección
+              de recursos para ayudarte a mejorar tus habilidades y a
+              estar al día con las últimas tendencias y tecnologías.
+              Desde tutoriales y 'Cheat Sheets' hasta repositorios que no te
+              puedes perder, encontrarás todo lo que necesitas
+              para seguir adelante en tu carrera.
+            </p>
+          </article>
+          <article>
+            <h2>¡Aporta!</h2>
+            <p>
+              Genio.me está hecho por y para desarrolladores y,
+              al ser de código abierto, puedes revisar y mejorar
+              por ti mismo lo que creas que puede mejorar esta web.
+              Aparte, también puedes contribuir con los recursos.
+              <br />
+              ¡Toda ayuda es bienvenida!
+            </p>
+            <br />
+            <span>
+              <a
+                href='https://github.com/Oussamaosman02/genio/blob/main/CONTRIBUTING.md'
+                target='_blank' rel='noreferrer noopener'
+              >
+                <button>
+                  Repositorio
+                </button>
+              </a>
+            </span>
+          </article>
+          <article>
+            <h2>From 0 to hero!</h2>
+            <p>
+              No importa si eres un principiante o un profesional
+              experimentado, Genio.me tiene algo para todos. Así
+              que no esperes más y entra ahora mismo para
+              ver todos los recursos increíbles que tenemos para
+              ofrecerte. ¡Te esperamos!
+            </p>
+          </article>
+          <br />
+          <article>
             <span>
               <button
                 onClick={() => {
                   navigate('/app', { replace: true })
                 }}
               >
-                Ir
+                Entrar
               </button>
             </span>
-          </div>
-        </section>
-        <section>
-          <h2>Aportar</h2>
-          <div>
-            <img
-              src='https://telegra.ph/file/6a66c96f763d2fde603b2.png'
-              alt='representa lo que tiene la apliacion'
-            />
-            <p>
-              En VoteÚ podrás poner propuestas de webs con una descripción y
-              pódras votar propuestas.Se libre, entra, vota, aporta y disfruta.
-              <br />
-              VoteÚ está hecho para votar cualquier cosa, pero en este caso será
-              para votar webs o apps útiles para la programación
-            </p>
-            <span>
-              <a href='https://voteu.tk/' target='_BLANK' rel='noreferrer'>
-                <button>Aportar</button>
-              </a>
-            </span>
-          </div>
+          </article>
         </section>
       </div>
       <div className='end'>
         <h1>¿Porqué?</h1>
         <p>
           Está idea surge por la cantidad de cuentas que publican contenido útil
-          pero que no llegan a todo el mundo.Lo que pretendo con esto es hacer
-          llegar muchas herramientas útiles a programadores que les pueden
+          pero que no llegan a todo el mundo. Lo que se pretende con esto es hacer
+          llegar muchas herramientas útiles a los programadores que les pueden
           ahorrar tiempo, ayudar a programar mejor o descubrir cosas nuevas e
           inspirarse.
           <br />
-          También tiene este tono grisaceo para no provocar sobreestimulación
+          También tiene este tono grisáceo para no provocar sobre estimulación
           visual, esto no es una red social ni intenta que pases 3 horas
           descubriendo cosas ni atraparte. Intenta ser minimalista y útil, si
           necesitas descubrir o inspirarte con un par de minutos al dia
@@ -96,7 +113,7 @@ export default function Home () {
           bien para crear contenido y descubrir nuevas herramientas a tu
           comunidad
           <br />
-          <strong>Si lo haces menciona :)</strong>
+          <strong>Si lo haces, no olvides mencionar :)</strong>
         </p>
       </div>
       <div className='ending' />

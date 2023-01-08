@@ -567,7 +567,7 @@
     "title": "Clarifai Api",
     "url": "https://docs.clarifai.com/api-guide/api-overview/",
     "description": "Api de reconocimiento mediante ia",
-    "tags": ["api", "ia"]
+    "tags": ["api", "ai"]
   },
   {
     "title": "QuickChart Api",
@@ -591,13 +591,13 @@
     "title": "Text-To-Speach Api",
     "url": "https://cloud.ibm.com/docs/text-to-speech/getting-started.html",
     "description": "Api para convertir texto a voz",
-    "tags": ["api", "ia"]
+    "tags": ["api", "ai"]
   },
   {
     "title": "AI Art Maker Api",
     "url": "https://rapidapi.com/hotpot-ai-hotpot/api/ai-art-maker/details",
     "description": "Api para hacer arte con ia ",
-    "tags": ["api", "ia"]
+    "tags": ["api", "ai"]
   },
   {
     "title": "Amazon Api",
@@ -639,7 +639,7 @@
     "title": "Agify Api",
     "url": "https://agify.io/",
     "description": "Api para predecir la edad segun el nombre",
-    "tags": ["api", "ia"]
+    "tags": ["api", "ai"]
   },
   {
     "title": "CocktailDB Api",
@@ -796,5 +796,47 @@
     "url": "https://github.com/mbeaudru/modern-js-cheatsheet",
     "description": "Repositorio de github de js",
     "tags": ["repo", "js", "learn"]
+  },
+  {
+    "title": "chatGPT",
+    "url": "https://chat.openai.com",
+    "description": "Inteligencia artificial que contestará tus preguntas",
+    "tags": ["ai", "tool"]
+  },
+  {
+    "title": "WolframAlpha",
+    "url": "https://www.wolframalpha.com",
+    "description": "Usa inteligencia artificial para contestar preguntas complejas",
+    "tags": ["ai", "learn", "tool"]
+  },
+  {
+    "title": "TinyWow",
+    "url": "https://tinywow.com",
+    "description": " Herramientas online para trabajar con pdf, imágenes y video entre otras",
+    "tags": ["ai", "tool"]
+  },
+  {
+    "title": "DevDocs",
+    "url": "https://devdocs.io",
+    "description": "Combina muchas documentaciones en una interfaz más amigable",
+    "tags": ["learn", "dev"]
+  },
+  {
+    "title": "DevHints",
+    "url": "https://devhints.io",
+    "description": "Una página con muchas cheatsheets sobre ciertas herramienta y lenguajes",
+    "tags": ["dev", "learn"]
+  },
+  {
+    "title": "Css Reference",
+    "url": "https://cssreference.io",
+    "description": "Referencias visuales de las propiedades de css",
+    "tags": ["css", "ui", "learn"]
+  },
+  {
+    "title": "Responsively",
+    "url": "https://responsively.app",
+    "description": "Una app que te deja ver como quedan distintos formatos en tu web",
+    "tags": ["tool", "css"]
   }
 ]

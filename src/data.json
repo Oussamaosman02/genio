@@ -838,5 +838,29 @@
     "url": "https://responsively.app",
     "description": "Una app que te deja ver como quedan distintos formatos en tu web",
     "tags": ["tool", "css"]
+  },
+  {
+    "title": "NextUi",
+    "url": "https://nextui.org",
+    "description": "Biblioteca Ui de React",
+    "tags": ["css", "ui"]
+  },
+  {
+    "title": "HeadlessUi",
+    "url": "https://headlessui.com",
+    "description": "Componentes Ui de React y Vue para integrarlos con Tailwind",
+    "tags": ["css", "ui"]
+  },
+  {
+    "title": "Background Generator",
+    "url": "https://fracergu.github.io/css-plasma-background-generator/",
+    "description": "Para generar un fondo de plasma en css",
+    "tags": ["css"]
+  },
+  {
+    "title": "API Football",
+    "url": "https://www.api-football.com/",
+    "description": "API de fútbol, con distintas ligas e histórico de partidos",
+    "tags": ["api"]
   }
 ]

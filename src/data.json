@@ -859,8 +859,56 @@
   },
   {
     "title": "API Football",
-    "url": "https://www.api-football.com/",
+    "url": "https://www.api-football.com",
     "description": "API de fútbol, con distintas ligas e histórico de partidos",
     "tags": ["api"]
+  },
+  {
+    "title": "Hero Icons",
+    "url": "https://heroicons.com",
+    "description": "Iconos en svg y como código JSX",
+    "tags": ["img"]
+  },
+  {
+    "title": "Ant Design",
+    "url": "https://ant.design",
+    "description": "Componentes UI para React",
+    "tags": ["ui"]
+  },
+  {
+    "title": "Blueprint",
+    "url": "https://blueprintjs.com/docs/",
+    "description": "kit de herramientas UI basado en React para la web",
+    "tags": ["ui"]
+  },
+  {
+    "title": "NativeBase",
+    "url": "https://nativebase.io",
+    "description": "Componentes universales para React y React Native",
+    "tags": ["ui"]
+  },
+  {
+    "title": "Mantine",
+    "url": "https://mantine.dev",
+    "description": "Librería de componentes React",
+    "tags": ["ui"]
+  },
+  {
+    "title": "React Fluent UI",
+    "url": "https://react.fluentui.dev",
+    "description": "Componentes de UI para React",
+    "tags": ["ui"]
+  },
+  {
+    "title": "Evergreen",
+    "url": "https://evergreen.segment.com",
+    "description": "Framework UI para React",
+    "tags": ["ui"]
+  },
+  {
+    "title": "Base Web",
+    "url": "https://baseweb.design",
+    "description": "Framework de UI para React",
+    "tags": ["ui"]
   }
 ]

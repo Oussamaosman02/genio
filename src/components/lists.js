@@ -13,7 +13,7 @@ export default function Lists () {
           onClick={() => {
             navigate('/app', { replace: true })
           }}
-          className='hw'
+          className='hwb'
         >
           Back
         </button>
@@ -46,7 +46,7 @@ export default function Lists () {
                           onClick={() => {
                             navigate(`/app/${t}`, { replace: true })
                           }}
-                          className='hw'
+                          className='hwb'
                         >
                           #{t}
                         </button>

@@ -7,26 +7,24 @@ export default function Historias () {
   const tag = tags
   const navigate = useNavigate()
   return (
-    <>
-      <div className='hist'>
-        {tag
-          .sort(function () {
-            return Math.random() - 0.5
-          })
-          .map((d) => {
-            return (
-              <button
-                key={d}
-                onClick={() => {
-                  navigate(`/app/${d}`, { replace: true })
-                }}
-                className='hw'
-              >
-                <h2>{d}</h2>
-              </button>
-            )
-          })}
-      </div>
-    </>
+    <div className='hist'>
+      {tag
+        .sort(function () {
+          return Math.random() - 0.5
+        })
+        .map((d) => {
+          return (
+            <button
+              key={d}
+              onClick={() => {
+                navigate(`/app/${d}`, { replace: true })
+              }}
+              className='hwt'
+            >
+              <h2>{d}</h2>
+            </button>
+          )
+        })}
+    </div>
   )
 }

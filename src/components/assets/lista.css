@@ -36,10 +36,10 @@
 }
 
 .hist button {
-  width: 65px;
-  height: 65px;
+  width: 75px;
+  height: 75px;
   text-align: center;
-  border-radius: 25vw;
+  border-radius: 50px;
   border-style: none;
   margin: 10px;
   background-color: #bcbcbc;
@@ -47,13 +47,13 @@
 
 .hist button h2 {
   text-align: center;
-  width: 65px;
+  width: 75px;
   font-size: small;
   font-weight: 900;
 }
 
 .lista a {
-  border: 2px dashed red;
+  border: 2px solid whitesmoke;
   padding: 5px;
   margin: 0;
   text-align: center;
@@ -106,10 +106,23 @@
 }
 
 .hw:hover {
-  background-color: #80808080;
+  background-color: #8888;
   color: #000;
-  font-weight: 600;
-  transition: all 0.2s;
+  transition: all 0.5s ease-in-out;
+}
+
+.hwb:hover {
+  background-color: #8888;
+  color: #000;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid black;
+}
+
+.hwt:hover {
+  background-color: #8888;
+  color: #000;
+  transition: all 0.2s ease-in-out;
+  border: 1px solid white;
 }
 
 .listadiv {

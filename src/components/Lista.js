@@ -41,7 +41,7 @@ export default function Lista () {
                           onClick={() => {
                             navigate(`/app/${t}`, { replace: true })
                           }}
-                          className='hw'
+                          className='hwb'
                         >
                           #{t}
                         </button>

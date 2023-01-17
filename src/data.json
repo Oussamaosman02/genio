@@ -910,5 +910,11 @@
     "url": "https://baseweb.design",
     "description": "Framework de UI para React",
     "tags": ["ui"]
+  },
+  {
+    "title": "Semantic Ui",
+    "url": "https://semantic-ui.com",
+    "description": "Framework de UI",
+    "tags": ["ui"]
   }
 ]

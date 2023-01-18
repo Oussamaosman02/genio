@@ -916,5 +916,29 @@
     "url": "https://semantic-ui.com",
     "description": "Framework de UI",
     "tags": ["ui"]
+  },
+  {
+    "title": "Feather Icons",
+    "url": "https://feathericons.com",
+    "description": "Iconos en svg",
+    "tags": ["img"]
+  },
+  {
+    "title": "FontAwesome Icons",
+    "url": "https://fontawesome.com/icons",
+    "description": "Iconos en svg y unicode",
+    "tags": ["img"]
+  },
+  {
+    "title": "Google Fonts Icons",
+    "url": "https://fonts.google.com/icons",
+    "description": "Iconos en svg, png y css",
+    "tags": ["img"]
+  },
+  {
+    "title": "Ionic Icons",
+    "url": "https://ionic.io/ionicons",
+    "description": "Iconos en svg",
+    "tags": ["img"]
   }
 ]

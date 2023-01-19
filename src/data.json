@@ -940,5 +940,11 @@
     "url": "https://ionic.io/ionicons",
     "description": "Iconos en svg",
     "tags": ["img"]
+  },
+  {
+    "title": "Octicons",
+    "url": "hhttps://primer.style/octicons",
+    "description": "Iconos en svg",
+    "tags": ["img"]
   }
 ]

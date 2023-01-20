@@ -946,5 +946,11 @@
     "url": "hhttps://primer.style/octicons",
     "description": "Iconos en svg",
     "tags": ["img"]
+  },
+  {
+    "title": "React Icons",
+    "url": "https://react-icons.github.io/react-icons",
+    "description": "Iconos para React",
+    "tags": ["img"]
   }
 ]

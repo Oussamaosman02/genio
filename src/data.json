@@ -952,5 +952,17 @@
     "url": "https://react-icons.github.io/react-icons",
     "description": "Iconos para React",
     "tags": ["img"]
+  },
+  {
+    "title": "Simple Icons",
+    "url": "https://simpleicons.org",
+    "description": "2419 iconos SVG gratuitos",
+    "tags": ["img"]
+  },
+  {
+    "title": "SuperTiny Icons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "description": "Iconos por debajo de 1kb!",
+    "tags": ["img"]
   }
 ]

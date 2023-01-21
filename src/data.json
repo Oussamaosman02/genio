@@ -867,7 +867,7 @@
     "title": "Hero Icons",
     "url": "https://heroicons.com",
     "description": "Iconos en svg y como código JSX",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "Ant Design",
@@ -921,48 +921,48 @@
     "title": "Feather Icons",
     "url": "https://feathericons.com",
     "description": "Iconos en svg",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "FontAwesome Icons",
     "url": "https://fontawesome.com/icons",
     "description": "Iconos en svg y unicode",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "Google Fonts Icons",
     "url": "https://fonts.google.com/icons",
     "description": "Iconos en svg, png y css",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "Ionic Icons",
     "url": "https://ionic.io/ionicons",
     "description": "Iconos en svg",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "Octicons",
     "url": "https://primer.style/octicons",
     "description": "Iconos en svg",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "React Icons",
     "url": "https://react-icons.github.io/react-icons",
     "description": "Iconos para React",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "Simple Icons",
     "url": "https://simpleicons.org",
     "description": "2419 iconos SVG gratuitos",
-    "tags": ["img"]
+    "tags": ["icons"]
   },
   {
     "title": "SuperTiny Icons",
     "url": "https://github.com/edent/SuperTinyIcons",
     "description": "Iconos por debajo de 1kb!",
-    "tags": ["img"]
+    "tags": ["icons"]
   }
 ]

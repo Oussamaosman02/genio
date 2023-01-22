@@ -495,7 +495,7 @@
     "title": "PokeApi",
     "url": "https://pokeapi.co/",
     "description": "Api de pokemon",
-    "tags": ["api", "pokemon"]
+    "tags": ["api"]
   },
   {
     "title": "Giphy",
@@ -513,7 +513,7 @@
     "title": "Swapi",
     "url": "https://swapi.dev/",
     "description": "Api de star wars",
-    "tags": ["api", "starwars"]
+    "tags": ["api"]
   },
   {
     "title": "OpenWeather",

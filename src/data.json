@@ -964,5 +964,11 @@
     "url": "https://github.com/edent/SuperTinyIcons",
     "description": "Iconos por debajo de 1kb!",
     "tags": ["icons"]
+  },
+  {
+    "title": "SVG Repo",
+    "url": "https://svgrepo.com",
+    "description": "Download free SVG vectors and icons for commercial use.",
+    "tags": ["icons"]
   }
 ]

@@ -970,5 +970,10 @@
     "url": "https://svgrepo.com",
     "description": "Download free SVG vectors and icons for commercial use.",
     "tags": ["icons"]
+  },{
+    "title":"Random Image",
+    "url": "https://random.imagecdn.app",
+    "description": "Imágenes aleatorias para pruebas",
+    "tags": ["img"]
   }
 ]

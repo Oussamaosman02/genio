@@ -970,10 +970,23 @@
     "url": "https://svgrepo.com",
     "description": "Download free SVG vectors and icons for commercial use.",
     "tags": ["icons"]
-  },{
-    "title":"Random Image",
+  },
+  {
+    "title": "Random Image",
     "url": "https://random.imagecdn.app",
     "description": "Imágenes aleatorias para pruebas",
     "tags": ["img"]
+  },
+  {
+    "title": "Remotion",
+    "url": "https://remotion.dev",
+    "description": "Crea vídeos en react",
+    "tags": ["video"]
+  },
+  {
+    "title": "Runway",
+    "url": "https://runwayml.com",
+    "description": "Editor de videos con IA",
+    "tags": ["video", "ai"]
   }
 ]

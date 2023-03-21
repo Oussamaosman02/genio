@@ -988,5 +988,23 @@
     "url": "https://runwayml.com",
     "description": "Editor de videos con IA",
     "tags": ["video", "ai"]
+  },
+  {
+    "title": "Arco Design",
+    "url": "https://arco.design",
+    "description": "Recursos para diseñadores",
+    "tags": ["ux", "ui"]
+  },
+  {
+    "title": "Geist",
+    "url": "https://geist-ui.dev",
+    "description": "Un sistema de diseño para construir apps modernas",
+    "tags": ["ux", "ui"]
+  },
+  {
+    "title": "PrimeReact",
+    "url": "https://www.primefaces.org/primereact",
+    "description": "Componentes de ui para React",
+    "tags": ["ux", "ui"]
   }
 ]

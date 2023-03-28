@@ -1006,5 +1006,11 @@
     "url": "https://www.primefaces.org/primereact",
     "description": "Componentes de ui para React",
     "tags": ["ux", "ui"]
+  },
+  {
+    "title": "css loaders",
+    "url": "https://cssloaders.github.io",
+    "description": "Loaders en css",
+    "tags": ["ux", "ui", "css"]
   }
 ]
